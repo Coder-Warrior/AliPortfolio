@@ -335,8 +335,8 @@ header ul li a:hover {
     display: flex;
     flex-direction: column;
     margin-bottom: 25px;
-    margin-left: -5000px;
     max-width: 80vw;
+    margin-left: -5000px;
 }
 
 .features .content .box .info {
@@ -360,19 +360,19 @@ header ul li a:hover {
 }
 
 .features .content .box:first-child {
-    animation: show  0.7s linear forwards 0.4s;
+    animation: show  0.6s linear forwards 0.4s;
 }
 
 .features .content .box:nth-child(2) {
-    animation: show  0.7s linear forwards 0.8s;
+    animation: show  0.6s linear forwards 1s;
 }
 
 .features .content .box:nth-child(3) {
-    animation: show  0.7s linear forwards 1s;
+    animation: show  0.6s linear forwards 1.6s;
 }
 
 .features .content .box:last-child {
-    animation: show 0.7s linear forwards 1.2s;
+    animation: show 0.6s linear forwards 2.2s;
 }
 
 /* End Features Section */
